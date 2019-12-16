@@ -1,0 +1,54 @@
+body{
+	background: #f6f5f1;
+}
+
+#box-page{
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#banner-top{
+
+}
+
+#main-nemu{
+	background: #2577c1;
+}
+
+#body-page{
+	background: #ffff;
+}
+
+#footer{
+
+}
+
+
+/*style nav*/
+
+#main-nemu ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-size: 0rem;
+}
+
+#main-nemu ul li{
+	display: inline-block;
+	border-right: 1px solid width;
+	font-size: 1rem;
+	padding: 10px;
+}
+
+#main-nemu ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.mau{
+	background: black;
+}
+
+#main-nemu ul li:last-child{
+	border-right: none;
+}
